@@ -185,5 +185,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Shraddha Chauhan**
 - Master's in Business Analytics at UT Arlington
 - Expertise in Data Engineering, ETL, and Cloud Platforms
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: https://www.linkedin.com/in/shraddha-chauhan-235a61233/
+
