@@ -176,14 +176,11 @@ Access the real-time monitoring dashboard at `http://localhost:8501` to view:
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👨‍💻 Author
 
 **Shraddha Chauhan**
 - Master's in Business Analytics at UT Arlington
 - Expertise in Data Engineering, ETL, and Cloud Platforms
 - LinkedIn: https://www.linkedin.com/in/shraddha-chauhan-235a61233/
+
 
